@@ -4,7 +4,7 @@
       "name": "Sausage Pizza",
       "description": "Delicious pizza topped with premium sausage, mozzarella cheese, and our special tomato sauce.",
       "price": 5.55,
-      "imageUrl": "https://www.google.com/imgres?q=pizza%20hut&imgurl=https%3A%2F%2Fwww.tasteofhome.com%2Fwp-content%2Fuploads%2F2023%2F11%2FPizza-Hut-The-Big-New-Yorker-Pizza-Taste-Test.-Allison-Robicelli-Resize-Recolor-Crop-DH-TOH-SOCIAL.jpg%3Ffit%3D700%2C700&imgrefurl=https%3A%2F%2Fwww.tasteofhome.com%2Farticle%2Fpizza-hut-big-new-yorker%2F&docid=abm1DOdFvr6ETM&tbnid=YbTS5NNvPqVfmM&vet=12ahUKEwibwO3RiJKNAxVZnf0HHTPQCywQM3oECHwQAA..i&w=700&h=700&hcb=2&ved=2ahUKEwibwO3RiJKNAxVZnf0HHTPQCywQM3oECHwQAA",
+      "imageUrl": "https://raw.githubusercontent.com/Mariam-Shammakh/pizzaList/main/pizza_images/sausage_pizza.jpg",
       "rating": 5.0,
       "category": "Meat",
       "isPopular": true
@@ -14,7 +14,7 @@
       "name": "Veggie Pizza",
       "description": "Fresh vegetables including bell peppers, onions, mushrooms, and olives on our signature crust.",
       "price": 5.55,
-      "imageUrl": "https://www.google.com/imgres?q=pizza%20hut&imgurl=https%3A%2F%2Fwww.yum.com%2Fwps%2Fwcm%2Fconnect%2Fyumbrands%2F77ac5d27-1357-4792-9953-54b11f5ae7dd%2Fyum-com-24-product-PH.jpg%3FMOD%3DAJPERES%26CACHEID%3DROOTWORKSPACE.Z18_5QC4HBC039RJ406SQH4UBH3695-77ac5d27-1357-4792-9953-54b11f5ae7dd-oXSxcXb&imgrefurl=https%3A%2F%2Fwww.yum.com%2Fcompany%2Four-brands%2Fpizza-hut%2F&docid=hH5Fij_330AgQM&tbnid=phFMvnhpKqa5YM&vet=12ahUKEwibwO3RiJKNAxVZnf0HHTPQCywQM3oECBgQAA..i&w=1024&h=683&hcb=2&ved=2ahUKEwibwO3RiJKNAxVZnf0HHTPQCywQM3oECBgQAA",
+      "imageUrl": "https://raw.githubusercontent.com/Mariam-Shammakh/pizzaList/main/pizza_images/veggie_pizza.jpg",
       "rating": 5.0,
       "category": "Vegetarian",
       "isPopular": true
@@ -24,7 +24,7 @@
       "name": "Deluxe Pizza",
       "description": "The ultimate pizza experience with a combination of premium toppings including pepperoni, sausage, bell peppers, and more.",
       "price": 5.55,
-      "imageUrl": "https://www.google.com/imgres?q=Deluxe%20Pizza&imgurl=https%3A%2F%2Fwaynesburgpizza.com%2Fwp-content%2Fuploads%2F2019%2F12%2FDeluxe-1-scaled.jpg&imgrefurl=https%3A%2F%2Fwaynesburgpizza.com%2Fproduct%2Fdeluxe-pizza%2F&docid=7pdHMcH1ufLQoM&tbnid=GdaI2vtjMjJZXM&vet=12ahUKEwi_pMfPkJKNAxXbTKQEHeyWIHwQM3oECBoQAA..i&w=2560&h=1920&hcb=2&ved=2ahUKEwi_pMfPkJKNAxXbTKQEHeyWIHwQM3oECBoQAA",
+      "imageUrl": "https://raw.githubusercontent.com/Mariam-Shammakh/pizzaList/main/pizza_images/deluxe_pizza.jpg",
       "rating": 5.0,
       "category": "Special",
       "isPopular": true
@@ -34,7 +34,7 @@
       "name": "Jalapeno Pizza",
       "description": "Spicy jalapeño peppers combined with cheese and your choice of toppings for a fiery flavor experience.",
       "price": 5.55,
-      "imageUrl": "https://www.google.com/imgres?q=Jalapeno%20Pizza&imgurl=https%3A%2F%2Floveinmyoven.com%2Fwp-content%2Fuploads%2F2022%2F02%2Fjalapeno-popper-pizza-2.jpg&imgrefurl=https%3A%2F%2Floveinmyoven.com%2Fjalapeno-popper-pizza%2F&docid=mv8xyNBd87GJ2M&tbnid=uGSH2cFSHhfh-M&vet=12ahUKEwiar4i3kJKNAxWPTKQEHQH-OY0QM3oECFUQAA..i&w=1200&h=800&hcb=2&ved=2ahUKEwiar4i3kJKNAxWPTKQEHQH-OY0QM3oECFUQAA",
+      "imageUrl": "https://raw.githubusercontent.com/Mariam-Shammakh/pizzaList/main/pizza_images/jalapeno_pizza.jpg",
       "rating": 5.0,
       "category": "Spicy",
       "isPopular": true
@@ -44,7 +44,7 @@
       "name": "Chicken Pizza",
       "description": "A hearty blend of chicken, mushrooms, and cheese on a rich tomato base, perfect for meat lovers.",
       "price": 5.55,
-      "imageUrl": "https://www.google.com/imgres?q=Chicken%20Pizza&imgurl=https%3A%2F%2Fchefadora.b-cdn.net%2Fmedium_1000529681_7684043161.jpg&imgrefurl=https%3A%2F%2Fwww.chefadora.com%2Faksashaikhkitchen%2Ftandoori-chicken-pizza-telh7siacr&docid=SIP0x66T5Pj3LM&tbnid=zyv47qtAQRjcnM&vet=12ahUKEwivi6-OkJKNAxXMKvsDHe4SBjQQM3oECBoQAA..i&w=750&h=624&hcb=2&ved=2ahUKEwivi6-OkJKNAxXMKvsDHe4SBjQQM3oECBoQAA",
+      "imageUrl": "https://raw.githubusercontent.com/Mariam-Shammakh/pizzaList/main/pizza_images/chicken_pizza.jpg",
       "rating": 5.0,
       "category": "Meat",
       "isPopular": true
