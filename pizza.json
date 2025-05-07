@@ -31,16 +31,6 @@
     },
     {
       "id": 4,
-      "name": "Jalapeno Pizza",
-      "description": "Spicy jalapeño peppers combined with cheese and your choice of toppings for a fiery flavor experience.",
-      "price": 5.55,
-      "imageUrl": "https://raw.githubusercontent.com/Mariam-Shammakh/pizzaList/main/pizza_images/jalapeno_pizza.jpg",
-      "rating": 5.0,
-      "category": "Spicy",
-      "isPopular": true
-    },
-    {
-      "id": 5,
       "name": "Chicken Pizza",
       "description": "A hearty blend of chicken, mushrooms, and cheese on a rich tomato base, perfect for meat lovers.",
       "price": 5.55,
