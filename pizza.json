@@ -20,7 +20,7 @@
       "isPopular": true
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Deluxe Pizza",
       "description": "The ultimate pizza experience with a combination of premium toppings including pepperoni, sausage, bell peppers, and more.",
       "price": 5.55,
@@ -30,7 +30,7 @@
       "isPopular": true
     },
     {
-      "id": 4,
+      "id": 6,
       "name": "Chicken Pizza",
       "description": "A hearty blend of chicken, mushrooms, and cheese on a rich tomato base, perfect for meat lovers.",
       "price": 5.55,
